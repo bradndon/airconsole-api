@@ -1188,4 +1188,4 @@ window.addEventListener('error', function(e) {
                           });
 });
 
-export default AirConsole
+module.exports = AirConsole;
