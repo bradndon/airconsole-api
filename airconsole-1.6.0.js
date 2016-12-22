@@ -1187,3 +1187,5 @@ window.addEventListener('error', function(e) {
                             }
                           });
 });
+
+export default AirConsole
